@@ -10,7 +10,7 @@
 - 🧠 Passionate about clean architecture, micro frontends & scalable SaaS platforms
 - 🚀 Founder @ [W3StackStudio](https://w3stackstudio.com) – modern software solutions
 - 🌱 Currently exploring: AI-integrated systems, Flutter Web, and DevOps automation
-- 📫 Reach me at: **shiv@w3stackstudio.com**
+- 📫 Reach me at: **shivpandey.geu@gmail.com**
 
 ---
 
